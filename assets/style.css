@@ -1,0 +1,72 @@
+    * {}
+    
+    body {
+        padding: 20px;
+    }
+    /* start header */
+    
+    header {}
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    ul li {}
+    
+    ul li a {
+        text-decoration: none;
+    }
+    
+    .fa-heart {
+        color: red;
+    }
+    
+    .fa-user {
+        color: rgb(79, 76, 76);
+    }
+    
+    nav {
+        width: auto;
+        height: 80px;
+        background-color: red;
+    }
+    
+    nav ul {
+        list-style-type: none;
+    }
+    
+    nav ul li {
+        float: left;
+    }
+    
+    nav ul li a {
+        text-decoration: none;
+    }
+    /* end header */
+    /* start main */
+    
+    main {}
+    
+    main section {}
+    
+    main section fieldset {
+        width: 120px;
+    }
+    
+    main section figure {}
+    
+    main section figure img {
+        width: 100px;
+        height: 80px;
+    }
+    
+    main section figure figcaption {}
+    
+    main section figure figcaption h3 {}
+    
+    main section figure figcaption p {}
+    /* end main */
+    /* start footer */
+    
+    footer {}
+    /* end footer */
